@@ -77,10 +77,6 @@ The ZICO Main Agent is the AI-powered component of PanoramaBlock, designed to st
 - **Docker-based Deployment**: Each agent runs in a dedicated container for modular scaling.
 - **AI Model Integration**: Uses NLP and machine learning for predictive analysis.
 - **Secure Transactions**: All on-chain interactions adhere to strict security protocols.
-
-### **Conclusion**
-The ZICO Main Agent enhances DeFi automation and blockchain intelligence by leveraging AI, making blockchain analytics accessible to both technical and non-technical users.
-
 ---
 
 ## PanoramaBlock Repositories
