@@ -119,10 +119,15 @@ Responsible for automated reporting and Twitter-based AI agents.
 - Monitors social media trends to feed AI models.
 - Facilitates automated interactions through AI agents.
 
-### 7. **[XRPL Data Collection](https://github.com/Panorama-Block/xrpl-data-extraction)**
-Data extraction infrastructure for XRP Ledger.
-- Monitors XRPL transactions and key network metrics.
-- Collects liquidity and whale activity data.
+### 7. **[Networks Data Collection]**
+[XRPL](https://github.com/Panorama-Block/xrpl-data-extraction)
+[AVAX](https://github.com/Panorama-Block/avax-data-extraction)
+[STACKS](https://github.com/Panorama-Block/stacks-data-extraction)
+[BITCOIN](https://github.com/Panorama-Block/bitcoin-data-extraction)
+
+Data extraction infrastructure for different networks.
+- Monitors transactions, blocks, accounts and key network metrics.
+- Collects liquidity and wallets activity data.
 
 ### 8. **[PanoramaBlock Monorepository](https://github.com/Panorama-Block/panorama-block)**
 The initial monolithic repository of PanoramaBlock.
