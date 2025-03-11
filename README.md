@@ -119,7 +119,7 @@ Responsible for automated reporting and Twitter-based AI agents.
 - Monitors social media trends to feed AI models.
 - Facilitates automated interactions through AI agents.
 
-### 7. **[Networks Data Collection]**
+### 7. **Networks Data Collection**
 [XRPL](https://github.com/Panorama-Block/xrpl-data-extraction)
 [AVAX](https://github.com/Panorama-Block/avax-data-extraction)
 [STACKS](https://github.com/Panorama-Block/stacks-data-extraction)
